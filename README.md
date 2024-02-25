@@ -1,8 +1,8 @@
 Telephone Directory Using Python
 
 It performs various operations as follows:
-Add telephone number
-View telephone number
-Update telephone number
-Delete telephone number
-Search telephone number
+1. Add telephone number
+2. View telephone number
+3. Update telephone number
+4. Delete telephone number
+5. Search telephone number
